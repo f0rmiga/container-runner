@@ -1,0 +1,9 @@
+[package]
+name = "container-runner"
+version = "0.1.0"
+authors = ["Thulio Ferraz Assis <tassis@suse.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
